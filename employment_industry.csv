@@ -1,0 +1,61 @@
+﻿"Labour force characteristics by industry, monthly, unadjusted for seasonality (x 1,000)" 1
+"Monthly"
+"Table: 14-10-0022-01 (formerly CANSIM 282-0007)"
+"Geography: Canada, Province or territory"
+
+"","Canada",,,,
+"","Employment 3",,,,
+"","Both sexes",,,,
+"","15 years and over",,,,
+"North American Industry Classification System (NAICS) 4","May 2020","June 2020","July 2020","August 2020","September 2020"
+"","Persons",,,,
+"Total, all industries 5","16,631.9","17,777.8","18,069.6","18,289.5","18,564.5"
+"Goods-producing sector 6","3,512.8","3,761.5","3,849.8","3,883.4","3,902.5"
+"Agriculture 7","289.9","288.8","292.9","290.0","283.8"
+"Forestry, fishing, mining, quarrying, oil and gas 8 9","298.2","307.0","317.6","306.7","302.3"
+"Forestry and logging and support activities for forestry","48.5","55.7","65.9","63.4","55.5"
+"Fishing, hunting and trapping","26.0","24.6","20.9","17.4","16.3"
+"Mining, quarrying, and oil and gas extraction 8","223.7","226.7","230.8","226.0","230.5"
+"Utilities","136.3","139.0","136.5","140.9","145.7"
+"Construction","1,252.0","1,392.7","1,440.0","1,447.2","1,440.3"
+"Manufacturing","1,536.3","1,634.0","1,662.8","1,698.6","1,730.5"
+"Durables","895.3","949.2","1,005.9","1,007.8","1,063.3"
+"Non-durables","641.0","684.8","656.9","690.8","667.2"
+"Services-producing sector 10","13,119.1","14,016.3","14,219.7","14,406.1","14,662.0"
+"Wholesale and retail trade","2,419.5","2,650.6","2,764.9","2,788.8","2,737.4"
+"Wholesale trade","581.7","616.4","640.4","655.5","632.7"
+"Retail trade","1,837.8","2,034.2","2,124.5","2,133.4","2,104.8"
+"Transportation and warehousing","873.7","931.6","916.1","927.3","962.2"
+"Finance, insurance, real estate, rental and leasing","1,214.8","1,238.5","1,235.8","1,235.5","1,245.5"
+"Finance and insurance","893.6","911.7","916.4","914.0","924.8"
+"Real estate and rental and leasing","321.3","326.8","319.4","321.5","320.7"
+"Professional, scientific and technical services","1,487.2","1,512.8","1,549.5","1,569.8","1,558.4"
+"Business, building and other support services 11","659.4","729.2","719.8","730.7","710.4"
+"Educational services","1,284.3","1,296.8","1,078.5","1,107.6","1,435.3"
+"Health care and social assistance","2,294.0","2,431.8","2,476.9","2,487.6","2,477.0"
+"Information, culture and recreation","585.2","678.3","755.5","755.8","727.5"
+"Accommodation and food services","664.4","847.3","966.3","1,018.6","1,044.3"
+"Other services (except public administration)","647.2","689.3","733.4","761.3","755.3"
+"Public administration","989.3","1,010.2","1,023.1","1,023.1","1,008.6"
+"Unclassified industries 12","..","..","..","..",".."
+
+Symbol legend:
+..,not available for a specific reference period,
+
+Footnotes:
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+2,Excluding the territories.
+3,"Number of persons who, during the reference week, worked for pay or profit, or performed unpaid family work or had a job but were not at work due to own illness or disability, personal or family responsibilities, labour dispute, vacation, or other reason. Those persons on layoff and persons without work but who had a job to start at a definite date in the future are not considered employed. Estimates in thousands, rounded to the nearest hundred."
+4,"Industry refers to the general nature of the business carried out by the employer for whom the respondent works (main job only). If the individual did not have a job during the reference week, the data relate to the previous job, if that job was held in the past year. Those unemployed persons who have never worked before and those persons who last worked more than 1 year ago make up the ""unclassified"" category in this table. In January 1999, the industry classification switched from Standard Industrial Classification (SIC 1980) to North American Industrial Classification System (NAICS), which was quite different. For this reason, detailed historical data based on NAICS is provided going back to January 1987. In addition, data from 1976 to 1986 is provided at a less detailed level than the more recent data. Historical data have been created by imputation. From 1976 to 1986, estimates are based on 2002 NAICS. From 1987 onwards, industry estimates are based on the 2012 North American Industry Classification System (NAICS)."
+5,This combines the North American Industry Classification System (NAICS) codes 11 to 91.
+6,This combines the North American Industry Classification System (NAICS) codes 11 to 33.
+7,"Labour Force Survey (LFS) North American Industry Classification System (NAICS) code exception: add group 1100 - Farming - not elsewhere classified (nec). When the type of farm activity cannot be distinguished between crop and livestock, (example: mixed farming)."
+8,Labour Force Survey (LFS) North American Industry Classification System (NAICS) code exception: add group 2100 - Mining - not elsewhere classified (nec). Whenever the type of mining activity cannot be distinguished.
+9,Also referred to as Natural resources.
+10,This combines the North American Industry Classification System (NAICS) codes 41 to 91.
+11,"Formerly ""Management of companies and administrative and other support services""."
+12,"Unemployed persons who have never worked before, and those unemployed persons who last worked more than 1 year ago."
+
+"How to cite: Statistics Canada. Table 14-10-0022-01 Labour force characteristics by industry, monthly, unadjusted for seasonality (x 1,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002201
+DOI:  https://doi.org/10.25318/1410002201-eng
