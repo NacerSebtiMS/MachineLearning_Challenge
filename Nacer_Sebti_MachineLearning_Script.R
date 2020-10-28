@@ -14,3 +14,15 @@ emp_province = read.csv("employment_province.csv")
 
 lf_ethnicity = read.csv("labour_force_ethnicity.csv")
 emp_ethnicity = read.csv("employment_ethnicity.csv")
+
+plot(lf_sex_age)
+plot(emp_sex_age)
+
+plot(lf_industry)
+plot(emp_province)
+
+plot(lf_province)
+plot(lf_sex_age)
+
+plot(lf_ethnicity)
+plot(emp_ethnicity)
